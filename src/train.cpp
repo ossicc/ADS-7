@@ -24,7 +24,7 @@ int Train::getLength() {
     countOp = 0;
     return 0;
   }
-
+  
   int length = 1;
   bool lightOffExists = !first->light;
 
